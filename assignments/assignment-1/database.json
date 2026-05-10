@@ -1,0 +1,43 @@
+{
+  "store_info": {
+    "name": "Zahra Hijab & Wear",
+    "location": "Tanah Abang, Jakarta Pusat",
+    "working_hours": "Setiap hari, pukul 09:00 - 17:00 WIB",
+    "shipping_methods": ["JNE", "J&T", "Sicepat", "GoSend (Sameday/Instant)"],
+    "payment_methods": ["Transfer BCA", "QRIS", "ShopeePay"]
+  },
+  "products": [
+    {
+      "category": "Hijab Segi Empat",
+      "name": "Bella Square",
+      "price": 25000,
+      "material": "Polycotton",
+      "available_colors": ["Maroon", "Navy", "Nude", "Hitam"],
+      "stock": 45
+    },
+    {
+      "category": "Pashmina",
+      "name": "Pashmina Silk Premium",
+      "price": 75000,
+      "material": "Silk Saten",
+      "available_colors": ["Champagne", "Rose Gold", "Silver"],
+      "stock": 0
+    },
+    {
+      "category": "Daily Wear",
+      "name": "Abaya Cupra",
+      "price": 210000,
+      "material": "Crinkle Airflow",
+      "available_colors": ["Hitam", "Sage Green"],
+      "stock": 5
+    },
+    {
+      "category": "Daily Wear",
+      "name": "Inner Ninja",
+      "price": 15000,
+      "material": "Spandek Rayon",
+      "available_colors": ["Hitam", "Putih", "Cream"],
+      "stock": 100
+    }
+  ]
+}
